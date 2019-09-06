@@ -1,0 +1,197 @@
+body{
+    background: #F4F6FF;
+}
+header{
+ width: 100%;
+ height: 5.33rem;
+ background-image: url('../image/assdie2x.png');
+ background-size: 100% 5.33rem;
+ position: relative;
+}
+.img_add{
+    position: absolute;
+    left: 0.41rem;
+    top:1.01rem;
+}
+.app{
+    padding-top: 2.15rem;
+    padding-left:0.51rem;
+    color:#fff ;
+    font-size: 0.37rem;
+}
+.app_cont{
+    display: block;
+    padding-top: 0.13rem;
+    padding-left:0.53rem;
+    color:#fff ;
+    font-size: 0.8rem;
+}
+.add{
+    width: 2.04rem;
+    height: 0.97rem;
+    float: left;
+    padding-left: 0.68rem;
+    padding-top: 0.41rem; 
+}
+.add_out{
+    font-size:0.32rem ;
+    color: #B7CAFF;
+}
+.add_art{
+    display: block;
+    font-size: 0.32rem;
+    color: #fff; 
+}
+.add_host{
+    width: 2.77rem;
+    height: 0.97rem;
+    float: right;
+    padding-right: 0.55rem;
+    padding-top: 0.41rem;
+}
+.head{
+    width: 100%;
+    height: 1.27rem;
+    background: #fff;
+    position: relative;
+}
+.img_app{
+    position: absolute;
+    top:0.37rem;
+    left:0.95rem;
+}
+.road{
+    font-size: 0.43rem;
+    color: #252525;
+    line-height: 1.27rem;
+    padding-left: 1.68rem;
+    float: left;
+}
+.img_list{
+    position: absolute;
+    top:0.37rem;
+    right: 3.65rem;
+}
+.date{
+    font-size: 0.43rem;
+    color: #252525;
+    line-height: 1.27rem;
+    padding-right: 1.68rem;
+    float:right; 
+}
+.get{
+    width: 100%;
+    height: 5.26rem;
+    background: #fff;
+    margin-top: 0.27rem;
+    overflow: hidden;
+}
+.bug{
+    width: 100%;
+    height: 2.8rem;
+    background: #fff;
+    margin-top: 0.27rem;
+    position: relative;
+}
+.mage{
+    position: absolute;
+    top:0.4rem;
+    left:0.51rem;
+}  
+header{
+    width: 100%;
+    height: 5.53rem;
+}
+
+.david_ore{
+    float: left;
+    font-size: 0.4rem;
+    color:#101010 ;
+    padding-top:0.51rem ;
+    padding-left: 0.68rem;
+}
+.david_host{
+    float: left;
+    padding-top:0.63rem ;
+    padding-left: 0.05rem;
+    width: 0.81rem;
+    height: 0.33rem;
+  
+}
+.david_rest{
+    float: right;
+    width: 2.16rem;
+    height:0.73rem ;
+    border-radius: 0.37rem;
+    background:#FD8A03;
+    border: none;
+    font-size:0.37rem;
+    color:#FDFEFF; 
+    margin-top:0.27rem ;
+    margin-right: 0.47rem;
+    outline: none;
+}
+.date_hred{
+    width: 9.49rem;
+    height: 1.29rem;
+    border-bottom: 0.02rem solid #F4F6FF;
+    margin-left: 0.51rem;
+}
+.okin{
+    float: left;
+    width: 0.12rem;
+    height: 0.12rem;
+    border-radius: 0.06rem;
+    background: #FF5858;
+    margin-top:0.63rem ;
+    margin-left: 0.56rem;
+}
+.worf{
+    float: left;
+    font-size: 0.43rem;
+    line-height:1.29rem;
+    color: #575758;
+    padding-left: 0.25rem;
+}
+.worl_cont{
+    float: left;
+    font-size:0.48rem ;
+    line-height: 1.29rem;
+    color: #2E2F30;
+    padding-left: 0.69rem;
+    
+}
+.assdle{
+    width:1.17rem ;
+    height: 0.56rem;
+    border-radius: 0.3rem;
+    border:0.02rem solid #186DFE;
+    background: #fff;
+    color: #186DFE;
+    font-size: 0.23rem;
+    float: left;
+    margin-top: 0.37rem;
+    margin-left: 0.71rem; 
+    outline: none;
+}
+.assdle_out{
+    width:1.2rem ;
+    height: 0.59rem;
+    border-radius: 0.3rem;
+    border: none;
+    background: #186DFE;
+    font-size: 0.23rem;
+    color: #fff;
+    float: right;
+    margin-top: 0.37rem;
+    margin-right: 0.47rem;
+    outline: none;
+    
+   
+    
+    
+   
+    
+    
+    
+}
